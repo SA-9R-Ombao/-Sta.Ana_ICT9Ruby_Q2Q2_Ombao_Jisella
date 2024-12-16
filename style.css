@@ -1,0 +1,32 @@
+body{background-image: url('https://img.freepik.com/free-photo/motherboard-circuit-technology-background-gradient-blue_53876-124645.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header {background-image: url('https://thumbs.dreamstime.com/b/robot-hand-abstract-tech-background-futuristic-industrial-arm-lab-panoramic-banner-concept-ai-technology-cyborg-robotic-323780378.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-color: #457b9d;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;}
+.content {
+	color: white;
+     	padding: 20px;
+        background-color: #415a77; 
+        border-radius: 5px;
+
+        }     
+
+.footer { background-color: #457b9d;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;
+
+}
+
+#bot { width: 100%;
+
+ }
